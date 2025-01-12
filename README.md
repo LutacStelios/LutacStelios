@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 style="text-align:center;">Passionate Web Developer</h1>
+<span style="text-align:center;">Passionate Front-end Web Developer</span>
 
 
 # 💻 Tech Stack:
